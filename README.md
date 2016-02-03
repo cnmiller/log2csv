@@ -1,2 +1,2 @@
 # log2csv.pl
-Simple perl script to convert IP table logs to CSV. Includes options for statistical conversion.
+Simple Perl script to convert iptable logs to CSV. Includes options for statistical conversion.
